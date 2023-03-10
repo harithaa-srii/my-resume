@@ -1,0 +1,158 @@
+.profile
+{
+    background-color:#4682B4;
+    width:250px;
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    width: fit-content;
+    padding-right:20px;
+}
+.border{
+    border: 1px solid #000000;
+    box-shadow: 1px 2px 3px 4px rgba(20,20,20,0.4);
+    margin:5% 23% 13% 25%;
+    padding-right:30px;
+    padding-left:30px;
+    padding-top:20px;
+    padding-bottom:30px;
+}
+.bio
+{
+    font-family: Poppins;
+    position: relative;
+}
+.bio h1{
+    font-size: 30px;
+    padding-top: 10px;
+    padding-left: 12px;
+    color:#fff;
+}
+.bio p{
+    font-size:20px;
+    padding-left: 80px;
+    color:#fff;
+}
+.pic img{
+    padding-top:30px;
+    height:200px;
+    padding-left:50px;
+}
+.career-objective
+{
+    font-family: Poppins;
+    position: relative;
+    padding-left: 5px;
+}
+.career-objective h1{
+    font-size: 20px;
+    padding-top:10px;
+    color:#4682B4;
+    text-decoration: underline;
+}
+.contents
+{
+    padding-right:10%;
+    width:250px;
+}
+.areas-of-interest h1
+{
+    font-size: 20px;
+    color:#4682B4;
+    text-decoration: underline;
+}
+.email
+{
+    font-size:15px;
+}
+.right-side
+{
+    position: relative;
+    font-family: Poppins;
+    padding-left: 25px;
+    padding-top: 10px;
+    box-sizing: border-box;
+    
+}
+.education h1{
+    font-size: 20px;
+    color:#4682B4;
+    text-decoration: underline;
+    padding-bottom: 10px;
+}
+.year
+{
+    color:#4682B4;
+    font-weight: bold;
+    padding-top:5px;
+    line-height:0.3px;
+  
+}
+.institute
+{
+   padding-top:5px;
+   line-height:15px;
+}
+.education li
+{
+    line-height:25px;
+}
+.skills{
+    box-sizing: border-box;
+}
+.skills h1{
+    font-size: 20px;
+    color:#4682B4;
+    text-decoration: underline;
+}
+.skills p
+{
+    margin-bottom:5px;
+}
+.soft h1
+{
+    font-size: 20px;
+    color:#4682B4;
+    text-decoration: underline;
+    display: flex;
+}
+.experience h1
+{
+    font-size: 20px;
+    color:#4682B4;
+    text-decoration: underline;
+}
+.date
+{
+    color:#4682B4;
+    padding-top:10px;
+}
+.hobbies h1
+{
+    font-size: 20px;
+    color:#4682B4;
+    text-decoration: underline;
+}
+.languages h1
+{
+    font-size: 20px;
+    color:#4682B4;
+    text-decoration: underline;
+}
+.projects h1
+{
+    font-size: 20px;
+    color:#4682B4;
+    text-decoration: underline;
+}
+.projects p
+{
+    line-height:20px;
+}
+.projects
+{
+    box-sizing:border-box;
+}
